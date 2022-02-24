@@ -485,7 +485,7 @@ footer {
 
     .course-text h4 {
         display: inline;
-        align: center;
+        box-align: center;
     }
 
     .course-text :hover {
